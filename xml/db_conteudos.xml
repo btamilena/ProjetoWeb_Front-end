@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<conteudos>
+
+                                                    <!-- PROBLEMATIZAÇÃO -->
+			<titulo1>PROBLEMATIZAÇÃO</titulo1>
+			<desc1>O presente trabalho de conclusão de curso após diversas análises de observação no bairro Jurumirim localizado na cidade de Registro/SP, aborda variados problemas vivenciados pela população que reside no bairro, como por exemplo:</desc1>
+			<desc1.1>- Em casos de transbordamentos de rios, onde muitas casas são localizadas perto dessa área, os moradores acabam ficando desabrigados;</desc1.1>
+            <desc1.2>- Outra problematização são as perdas de bens matérias e maquinários que os moradores enfrentam;</desc1.2>
+            <desc1.3>- Levando em consideração o fato desses indivíduos em algumas das circunstâncias não conseguirem sair de imediato de seu imóvel, e com isso acabam ficando ilhados sem ter acesso ao centro urbano.</desc1.3>
+			               
+						                         <!-- PROPSOTA DE INTERVENÇÃO -->
+			<titulo2>PROPOSTA DE INTERVENÇÃO</titulo2>
+			<desc2>A Young TEC's tem como proposta utilizar o nosso sistema, "Alert Zone's", para alertar por meio de notificações os moradores de possíveis transbordamentos de rios ou rompimentos de barragens e/ou diques, Priorizar a vida desses moradores, e também cuidar para que esses não percam seus bens materiais, Notificar também sobre a previsão do tempo, para que o morador já fique atento sobre possível alerta de alagamento ou transbordamento.</desc2>
+                 
+							                      <!-- FUNCIONAMENTO -->
+			<titulo3>COMO O SISTEMA FUNCIONA?</titulo3>
+			<desc3>Nosso sistema de prevenção é criar um aplicativo que alerte sobre os possíveis desastres ambientais (transbordamentos de rios e rompimentos de barragens ou diques), também queremos aletar moradores que não possuem acesso à internet ou que não possuem aparelho celular por meio de um 'buzzer' (pequeno alto-falante que emite sons em diversas frequências) e deixar os moradores da comunidade cientes da situação de risco, sobre a intensidade da chuva.</desc3>								  
+	
+	                                               <!-- INTEGRANTES -->
+	        <titulo4>INTEGRANTES</titulo4>
+			<participante01>Vinicius</participante01>
+			<participante02>Laisa</participante02>
+			<participante03>Milena</participante03>
+	
+	</conteudos>
